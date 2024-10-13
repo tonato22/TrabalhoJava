@@ -1,4 +1,3 @@
-// src/main/java/model/Cliente.java
 package model;
 
 public class Cliente {
@@ -24,5 +23,4 @@ public class Cliente {
         return endereco;
     }
 
-    // Adicione setters se necessário
 }
